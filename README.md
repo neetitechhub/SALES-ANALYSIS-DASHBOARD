@@ -21,12 +21,14 @@
     Technology: 0.84M
     Furniture: 0.74M
     Office Supplies: 0.72M
-    Insight: Technology leads sales, closely followed by Furniture and Office Supplies. All three categories are significant revenue drivers, but technology has a slight edge.
+    Insight: Technology leads sales, closely followed by Furniture and Office Supplies.
+            All three categories are significant revenue drivers, but technology has a slight edge.
 
 **3. Sales by Month (Line Chart - Bottom Center)**
 
     Monthly sales trend is depicted with a peak towards the latter part of the year, notably from August to December.
-    Insight: Sales are generally increasing toward the end of the year, suggesting a seasonal trend, possibly related to holidays or year-end promotions.
+    Insight: Sales are generally increasing toward the end of the year, 
+            suggesting a seasonal trend, possibly related to holidays or year-end promotions.
 
 **4. Geographical Sales (Map - Center)**
 
@@ -36,7 +38,8 @@
 **5. Monthly Sales and Quantity Totals (Bar Chart - Bottom Right)**
 
     The chart shows both the sum of sales and sum of quantity sold by month.
-    Insight: Sales volume peaks around November and December, which might coincide with Black Friday or holiday sales, while June also shows strong performance.
+    Insight: Sales volume peaks around November and December, which might coincide with Black Friday or holiday sales, 
+            while June also shows strong performance.
 
 **6. Sales by Ship Mode (Donut Chart - Top Right)**
 
@@ -44,26 +47,31 @@
     Second Class: 19.99%
     First Class: 15.3%
     Same Day: 5.59%
-    Insight: Standard class shipping dominates, suggesting that customers are either cost-conscious or the delivery times for this mode are satisfactory for most.
+    Insight: Standard class shipping dominates, suggesting that customers are either cost-conscious 
+        or the delivery times for this mode are satisfactory for most.
 
 **7. Sales by Segment (Donut Chart - Middle Right)**
 
     Consumer: 50.56%
     Corporate: 30.74%
     Home Office: 18.7%
-    Insight: The majority of sales come from the consumer segment, while corporate and home office segments make up the remaining sales, indicating the focus of business on individual consumers.
+    Insight: The majority of sales come from the consumer segment, while corporate and home office segments -
+            -make up the remaining sales, indicating the focus of business on individual consumers.
 
 **8. Sales and Profit Relationship (Scatter Plot - Bottom Left)**
 
-    The scatter plot shows a positive correlation between sales and profit, with most of the data points clustered around low-to-mid sales volumes and profits.
-    Insight: There are a few outliers with higher sales, indicating some products or customers bring in higher revenue, but the majority of products or transactions fall within a moderate range.
+    The scatter plot shows a positive correlation between sales and profit, 
+                with most of the data points clustered around low-to-mid sales volumes and profits.
+    Insight: There are a few outliers with higher sales, indicating some products or customers bring -
+            -in higher revenue, but the majority of products or transactions fall within a moderate range.
 
 **9. Category Profit Summation (Donut Chart - Bottom Center)**
 
     Technology: 145.42K (50.79%)
     Office Supplies: 122.47K (42.77%)
     Furniture: 18.44K (6.44%)
-    Insight: Technology brings in the most profit, followed closely by Office Supplies, while Furniture has the least contribution to profit despite having a substantial sales volume.
+    Insight: Technology brings in the most profit, followed closely by Office Supplies,
+            while Furniture has the least contribution to profit despite having a substantial sales volume.
 
 **10. Treemap Analysis - Category Sales Summation (Bottom Center)**
 
@@ -75,7 +83,8 @@
 **11. Top 10 Products by Sales (Table - Bottom Right)**
 
     The table lists the top 10 products by sales, with the highest being Canon imageCLASS 2200 Advanced Copier at 61,599.82.
-    Insight: High-priced office equipment and electronics dominate the top product sales, indicating that these product categories are key revenue drivers.
+    Insight: High-priced office equipment and electronics dominate the top product sales,
+            indicating that these product categories are key revenue drivers.
 
 **12. Sales by Quarter (Donut Chart - Bottom Right)**
     
